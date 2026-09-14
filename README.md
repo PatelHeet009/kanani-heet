@@ -10,5 +10,5 @@ Hi there 👋 I'm Heet Kanani
 💡 Interested in Frontend Design 
 🛠️ Working with HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL
 📚 Always trying to improve my coding and design skills
-🎯 Goal: Become a professional Full Stack Developer
+🎯 Goal: Become a professional Frontend Stack Developer 
 
